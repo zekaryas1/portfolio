@@ -266,7 +266,7 @@ const Menu = () => {
               </ol>
             )}
 
-            <a href="/resume.pdf" className="resume-link">
+            <a href="https://app.flowcv.com/resume-feedback/vtwd2fWECOvv" className="resume-link">
               Resume
             </a>
           </nav>
