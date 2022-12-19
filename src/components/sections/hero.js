@@ -64,11 +64,11 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Zekaryas Tadele.</h2>;
-  const three = <h3 className="big-heading">I build web, mobile and desktop apps.</h3>;
+  const three = <h3 className="big-heading">A Software engineer with a passion for web.</h3>;
   const four = (
     <>
       <p>
-        I'm a software developer who is constantly seeking for solutions to problems. I like working
+        I'm a software engineer who is constantly seeking for solutions to problems. I like working
         with people and have developed my analytical thinking and collaboration skills through the
         years in this field.
       </p>

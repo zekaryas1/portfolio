@@ -11,6 +11,4 @@ tech:
 showInProjects: true
 ---
 
-Complete notes on the majority of topics I want to keep in mind that I use Obsidian to structure and compose
-Markdown notes in a nice manner, Docusaurus to structure it for the web, and most significantly,
-Algolia for the fastest and most accurate search.
+Complete notes on the majority of topics I want to keep in mind, I use Obsidian, Docusaurus and Algolia search to structure and compose Markdown notes in a nice manner.
