@@ -2,7 +2,7 @@
   <img alt="Logo" src="https://github.com/zekaryas1/portfolio/blob/main/src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
-  zekaryas.vercel.com - v4
+  <a href='https://zekaryas.vercel.com'>zekaryas.vercel.com</a>
 </h1>
 
 ![demo](https://github.com/zekaryas1/portfolio/blob/main/src/images/demo.png)
