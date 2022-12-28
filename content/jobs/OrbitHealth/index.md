@@ -3,7 +3,7 @@ date: 'April 2018'
 title: 'Intern software developer'
 company: 'Orbit health'
 location: 'Ethiopia'
-range: 'January - April 2019'
+range: 'January - April 2018'
 url: 'https://orbithealth.co/'
 ---
 
