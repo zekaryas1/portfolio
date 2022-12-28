@@ -2,7 +2,7 @@
 date: '2022-03-27'
 title: 'Personal documentation app'
 github: 'https://github.com/zekaryas1/notes'
-external: 'https://zekaryas.vercel.app/'
+external: 'https://cnotes.vercel.app/'
 tech:
   - Docusaurus
   - Obsidian
