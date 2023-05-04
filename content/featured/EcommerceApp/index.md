@@ -1,9 +1,9 @@
 ---
-date: '3'
-title: 'Skeleton ecommerce website'
+date: '4'
+title: 'Skeleton e-commerce website'
 cover: './course-card.png'
 external: 'https://ecommerce-phi-six.vercel.app/'
-cta: 'https://ecommerce-phi-six.vercel.app/'
+cta: 'https://github.com/zekaryas1/ecommerce'
 tech:
   - Next.js
   - React
@@ -11,4 +11,4 @@ tech:
   - Tailwind
 ---
 
-A simple ecommerce website done with Tailwind, Next.js, Typescript and RestApi.
+A simple e-commerce website done with Tailwind, Next.js, Typescript and RestApi.

@@ -68,9 +68,9 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        A developer who is constantly seeking for solutions to problems. I like working with people
-        and have developed my analytical thinking and collaboration skills through the years in this
-        field.
+        As a developer, I enjoy finding solutions to various problems that arise in my work. I value
+        teamwork and communication, and I have honed my analytical thinking and collaboration skills
+        through my years of experience in this field.
       </p>
     </>
   );

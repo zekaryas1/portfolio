@@ -1,9 +1,9 @@
 ---
-date: '2'
-title: 'Collection of dashboard ui challenges'
+date: '3'
+title: 'Dashboard ui challenges'
 cover: './demo1.png'
 external: 'https://manydashboards.vercel.app/'
-cta: 'https://manydashboards.vercel.app/'
+cta: 'https://github.com/zekaryas1/dashboards'
 tech:
   - Next.js
   - React

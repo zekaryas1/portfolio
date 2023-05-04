@@ -144,11 +144,11 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Zekaryas Tadele, a long time ago I got my start in programming with
-              HTML, CSS, and JavaScript. This inspired me to enroll in software engineering at{' '}
-              <a href="https://en.wikipedia.org/wiki/Addis_Ababa_University">AAU</a> in Ethiopia.
-              I'm very passionate about my career, and I never felt bored when learning new things
-              and taking on difficulties.
+              Greetings! I am Zekaryas Tadele, a software engineer from Ethiopia. I started coding
+              with HTML, CSS, and JavaScript many years ago and fell in love with it. That's why I
+              decided to study software engineering at{' '}
+              <a href="https://en.wikipedia.org/wiki/Addis_Ababa_University">AAU</a>. I enjoy my
+              career very much and I always welcome new challenges and opportunities to learn.
             </p>
 
             <p>
