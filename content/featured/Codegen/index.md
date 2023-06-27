@@ -3,7 +3,7 @@ date: '1'
 title: 'Code generator'
 cover: './demo.png'
 external: 'https://thecodegen.vercel.app/'
-cta: 'https://github.com/zekaryas1/thecodegen'
+github: 'https://github.com/zekaryas1/thecodegen'
 tech:
   - Next.js
   - React

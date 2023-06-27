@@ -3,7 +3,7 @@ date: '3'
 title: 'Dashboard ui challenges'
 cover: './demo1.png'
 external: 'https://manydashboards.vercel.app/'
-cta: 'https://github.com/zekaryas1/dashboards'
+github: 'https://github.com/zekaryas1/dashboards'
 tech:
   - Next.js
   - React
@@ -12,5 +12,4 @@ tech:
   - HeroIcons
 ---
 
-A collection of dashboard ui challenges, with goal to build interactive
-,beautiful and responsive websites.
+A collection of dashboard UI challenges created with the aim of building websites that are interactive, beautiful, and responsive. I designed the challenges to help me push the boundaries of front-end development and showcase my skills in creating exceptional user experiences.
